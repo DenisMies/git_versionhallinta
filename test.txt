@@ -17,4 +17,5 @@ git push - lähettää paikallisen git repositorion committaukset etärepositori
 git status - näyttää nykyisen git repositorion tilan (mitkä tiedostot staging areassa, mitkä muuttumattomia ja mitkä ei seurattuja)
 git log - näyttää repositorion committien historian
 git rm - poistaa tiedoston Git-repositorion seurannasta ja myös yleensä hakemistosta
+git mv - siirtää tai uudelleen nimää tiedoston esim git mv oldname.txt newname.txt tai siirtää git mv newname.txt (uuden hakemiston nimi)
 
